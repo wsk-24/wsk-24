@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wsk-24
-- 👀 I’m interested in lang
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning lang
 - 💞️ I’m looking to collaborate on slack
 - 📫 How to reach me 
